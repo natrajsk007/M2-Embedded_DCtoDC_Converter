@@ -1,57 +1,15 @@
-# *Communication Protocols*
+# Requirements
+* Capture High level requirements and Low level requirements fro each high level requirements
+* Requirements must clearly call out all the feature of the system
 
+## High level Requirements 
+* Each use case is a high level requirement
 
+## Low level Requirements
+* Each use case has multiple steps and is a low level requirement
+* All corner cases also can become part of low level requirements
 
-#### UART  - TX & RX (2 devices)
-* 2 Wire
-* Individual clocks used by the both parties
-* Standard speed (9600, 115200) - Baud rate
-* Parity
+## SWOT Analysis
 
-## Wired
-### Commonly used Serial Communciations in Embedded Systems
-
-
-#### I2C - Inter IC  (Master & Slave), External Pull up resistors
-* 2 wired
-    * Serial Data
-    * Serial Clock
-* 7/9 bit Address for each entity
-* Start - Data line going low, clock low
-* Stop - Dataline going high, clock low
-* 7 bit address + 1 bit of acknowledge
-* 100k, 400K, 1.2M
-
-
-#### SPI - Serial Programming Interface (Master and Slave)
-* 3 + 1 wire
-    * Master In Slave Out
-    * Master out Slave In
-    * Clock
-    * Individual Chip select
-* Max - Number GPIO's available CS pins
-* Frequency - 1/3 of Operating 
-
-
-## Wireless
-* Bluetooth
-* Wifi
-* LORA
-* RFID
-* GSM
-
-
-#### Factors to decide on which communication prototocol to select
-* Frequency
-* Data throughput
-* Number of pins available 
-* Type of devices which needs to talk
-* Error detection (UART & I2C) capability
-
-
-### Other serial Communciation
-* SDIO - uSD
-* HDMI
-* Ethernet
-### Parallel
+## 4W's and 1'H
 
