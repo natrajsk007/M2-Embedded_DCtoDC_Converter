@@ -11,6 +11,5 @@ HLT_03|Oscilloscope| Input Pulses| PWM pulse generated| PWM pulse generated|Scen
 ## Table : Low level test plan
 |Test| ID	Description|	Exp I/P|	Exp O/P|	Actual OutPut|	Type of Test|
 |--|--|--|--|--|--|
-LLR_01|			
-LLR_02					
-LLR_03					
+LLR_01|	When Switch ON| I flow through LC| L charges| L charged| Requirement Based|
+LLR_02|When Switch OFF| I flow through Ripple C and Load|Voltage passed| Voltage passed|Requirement based|								
