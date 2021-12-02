@@ -4,6 +4,12 @@
 
 The purpose of the project is to build a DC to DC Boost Converter based on Atmega328 microcontroller. Basically, DC-DC converters are devices which change one level of direct current/ voltage to another (either higher or lower) level.
 
+![image](https://user-images.githubusercontent.com/94169022/144423516-ba68848f-7b55-469e-a7c4-ae55f50eb284.png)
+
+![image](https://user-images.githubusercontent.com/94169022/144423644-d6b9bfe6-9f49-4515-bf37-b895c926825a.png)
+
+
+
 A DC-to-DC boost converter circuit is a circuit that can convert a DC voltage into a larger DC voltage. So, for example, you may be able to convert a 5V DC voltage into 30V. A DC-to-DC converter works on the principle of an inductor primarily and a capacitor.
 
 
