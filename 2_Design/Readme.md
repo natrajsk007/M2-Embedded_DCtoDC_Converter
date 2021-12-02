@@ -17,6 +17,7 @@
 
 
 ##  *BILL OF MATERIALS*
- *Avr Atmega 328 microcontroller
- *Voltage Source
- *Voltage Measurement
+
+ * Avr Atmega 328 microcontroller
+ * Voltage Source
+ * Voltage Measurement
