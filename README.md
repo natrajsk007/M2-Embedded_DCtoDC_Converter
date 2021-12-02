@@ -3,11 +3,10 @@
 ## ***Direct Current to Direct Current conversion of Closed Loop System***
 
 
-#### CI and Code Quality
-
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Build](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/compile.yml/badge.svg)](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/95519e0384b544228be82feac6b1f9e4)](https://www.codacy.com/gh/natrajsk007/M2-Embedded_DCtoDC_Converter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=natrajsk007/M2-Embedded_DCtoDC_Converter&amp;utm_campaign=Badge_Grade)
+CI and Code Quality
+|Build|Cppcheck|	Codacy|
+|--|--|--|
+|[![Build](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/compile.yml/badge.svg)](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f1b28992797145e692d190e6a3915b8c)](https://www.codacy.com/gh/natrajsk007/M2-Embedded_DCtoDC_Converter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=natrajsk007/M2-Embedded_DCtoDC_Converter&amp;utm_campaign=Badge_Grade)|
 
 # Folder Structure
 |Folder|	Description|
