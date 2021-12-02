@@ -38,4 +38,7 @@ A DC-to-DC boost converter circuit is a circuit that can convert a DC voltage in
 
 ## Challenges Faced and How Was It Overcame
 
-Having some installation issues in SimulIDE and tried to overcame by troubleshooting videos.
+* Having some installation issues in SimulIDE and tried to overcame by troubleshooting videos.
+
+## Project Title chosen
+First chosen an LED banner project with 8*8 display, having some issues in hex file and chosen a Digital Voltmeter, then taking research with this project.
