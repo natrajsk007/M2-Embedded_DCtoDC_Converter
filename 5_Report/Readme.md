@@ -90,6 +90,27 @@ The features of this Converter can perform
 | LLR_3 | Load| HLR_3 | Implemented |
 | LLR_4 | Visual Studio Code & Simulide | HLR_4 | Implemented |
 
+# Folder Structure
+|Folder|	Description|
+|--|--|
+1_Requirements|	Documents detailing requirements and research in this project
+2_Design|	Documents specifying design details
+3_Implementation|	All code and documentation
+4_TestplanAndOutput|	Documents with test plans and outputs
+5_Report|	Documentation of the all folders
+6_Images|	All the output images of this project
+
+
+## Contributors List and Summary
+|PS No.|	Name|	Features|	Issuess Raised|	Issues Resolved|	Number of Test Cases|	Test Case Pass|
+|--|--|--|--|--|--|--|
+40021000|	Natarajan K | Nil | Nil | 3 | 3 |
+
+## Challenges Faced and How Was It Overcame
+
+Having some installation issues in SimulIDE and tried to overcame by troubleshooting videos.
+
+
 # *DESIGN*
 
 
