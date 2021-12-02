@@ -8,7 +8,8 @@ A DC-to-DC boost converter circuit is a circuit that can convert a DC voltage in
 
 
 
-CI and Code Quality
+# **CI and Code Quality**
+
 |Build|Cppcheck|	Codacy|
 |--|--|--|
 |[![Build](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/compile.yml/badge.svg)](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/natrajsk007/M2-Embedded_DCtoDC_Converter/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f1b28992797145e692d190e6a3915b8c)](https://www.codacy.com/gh/natrajsk007/M2-Embedded_DCtoDC_Converter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=natrajsk007/M2-Embedded_DCtoDC_Converter&amp;utm_campaign=Badge_Grade)|
@@ -25,8 +26,8 @@ CI and Code Quality
 
 
 ## Contributors List and Summary
-|PS No.|	Name|	Features|	Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
+|PS No.|	Name|	Features|	Issuess Raised|	Issues Resolved|	Number of Test Cases|	Test Case Pass|
 |--|--|--|--|--|--|--|
-40021000|	Natarajan K | Nil | Nil | 4 | 4 |
+40021000|	Natarajan K | Nil | Nil | 3 | 3 |
 
 ## Challenges Faced and How Was It Overcame
