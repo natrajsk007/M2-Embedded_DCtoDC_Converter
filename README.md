@@ -33,7 +33,7 @@ A DC-to-DC boost converter circuit is a circuit that can convert a DC voltage in
 
 ## Contributors List and Summary
 |PS No.|	Name|Issuess Raised|	Issues Resolved|	Number of Test Cases|	Test Case Pass|
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|
 40021000|	Natarajan K | 3 | 3 | 5 | 5 |
 
 # *Challenges Faced and How Was It Overcame*
