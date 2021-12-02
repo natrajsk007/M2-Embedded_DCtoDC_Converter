@@ -7,11 +7,18 @@
 ![image](https://user-images.githubusercontent.com/94169022/144378559-ea1df82a-338a-4724-ace8-c7f0ed7611f1.png)
 
 * When a circuit increases the DC voltage to a higher level, it is called Boost Converter. When a circuit decreases DC voltage to a lower level, it is called buck converter. Since a boost converter converts the DC voltage to the higher voltage level, it is also known as a step-up converter. For boosting the voltage signal a regulator circuit is required which can step up the input voltage signal. 
+
+## Working Principle
+The working principle of the DC-to-DC converter is very simple. The inductor in the input resistance has an unexpected variation in the input current. If the switch is kept as high (on), then the inductor feeds the energy from the input and stores the energy in the form of magnetic energy.
+
+![image](https://user-images.githubusercontent.com/94169022/144422712-6e7c4a72-4795-4675-92ba-8371c16193e8.png)
+
  
 ## Components Used
 1.  Voltage Source
-2.  ADC
+2.  Oscilloscope
 3.  AVR Atmega 328 Microcontroller
+4.  Metal Oxide Semiconductor Field Effect Transistor
 
 ## Software Used
 1.  SimulIDE(tried)
