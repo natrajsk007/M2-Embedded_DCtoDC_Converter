@@ -32,13 +32,13 @@ A DC-to-DC boost converter circuit is a circuit that can convert a DC voltage in
 
 
 ## Contributors List and Summary
-|PS No.|	Name|	Features|	Issuess Raised|	Issues Resolved|	Number of Test Cases|	Test Case Pass|
+|PS No.|	Name|Issuess Raised|	Issues Resolved|	Number of Test Cases|	Test Case Pass|
 |--|--|--|--|--|--|--|
-40021000|	Natarajan K | Mentioned| Nil | Nil | 3 | 3 |
+40021000|	Natarajan K | 3 | 3 | 5 | 5 |
 
-## Challenges Faced and How Was It Overcame
+# *Challenges Faced and How Was It Overcame*
 
-* Having some installation issues in SimulIDE and tried to overcame by troubleshooting videos.
+* Having some installation issues in SimulIDE and tried to overcame by troubleshooting videos, and has a problem in Loading the firmware and by no way done in other simulink software.
 
-## Project Title chosen
-First chosen an LED banner project with 8*8 display, having some issues in hex file and chosen a Digital Voltmeter, then taking research with this project.
+### *Project Title chosen*
+* First chosen an LED banner project with 8*8 display, having some issues in hex file and chosen a Digital Voltmeter, then taking research with this project.
