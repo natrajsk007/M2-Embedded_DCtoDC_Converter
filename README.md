@@ -1,6 +1,11 @@
 # **M2-Embedded_DCtoDC_Converter**
 
-## ***Direct Current to Direct Current conversion of Closed Loop System***
+## ***Direct Current to Direct Current Boost conversion of Closed Loop System***
+
+The purpose of the project is to build a DC to DC Boost Converter based on Atmega328 microcontroller. Basically, DC-DC converters are devices which change one level of direct current/ voltage to another (either higher or lower) level.
+
+A DC-to-DC boost converter circuit is a circuit that can convert a DC voltage into a larger DC voltage. So, for example, you may be able to convert a 5V DC voltage into 30V. A DC-to-DC converter works on the principle of an inductor primarily and a capacitor.
+
 
 
 CI and Code Quality
@@ -16,12 +21,12 @@ CI and Code Quality
 3_Implementation|	All code and documentation
 4_TestplanAndOutput|	Documents with test plans and outputs
 5_Report|	Documentation of the all folders
-6_ImagesAndVideos|	All the output images and Videos of this project
+6_Images|	All the output images of this project
 
 
 ## Contributors List and Summary
 |PS No.|	Name|	Features|	Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
 |--|--|--|--|--|--|--|
-40021000|	Natarajan K  
+40021000|	Natarajan K | Nil | Nil | 4 | 4 |
 
 ## Challenges Faced and How Was It Overcame
